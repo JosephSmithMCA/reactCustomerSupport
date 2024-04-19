@@ -1,0 +1,35 @@
+/* HEADER AREA */
+.Header{
+    background-color: #262336;
+}
+
+.headerRow{
+    margin: 20px;
+}
+
+.navLinks{
+    list-style: none;
+}
+
+.navLinks > li > a{
+    color: #686472;
+}
+
+.siteTitle{
+    color: #d1d0d5;
+}
+/* header area above */
+
+/* BODY AREA */
+.bodyColor{
+    background-color: #262336;
+}
+
+.customSupport{
+    color: rgb(202,201,208);
+    color: linear-gradient(180deg, rgba(202,201,208,1) 20%, rgba(162,160,174,1) 50%, rgba(133,129,149,1) 65%);
+}
+
+.support{
+    color: #ffff;
+}
